@@ -68,10 +68,10 @@ I am passionate about automating infrastructure, streamlining deployments, and b
 
 <p align="center">
   <a href="https://github.com/dek-infra">
-    <img src="https://github-readme-stats.vercel.app/api?username=dek-infra&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;v=1" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dek-infra&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/dek-infra">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dek-infra&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;v=1" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dek-infra&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
