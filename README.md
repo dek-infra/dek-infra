@@ -66,10 +66,11 @@ I am passionate about automating infrastructure, streamlining deployments, and b
 
 <br/>
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dek-infra&show_icons=true&theme=radical&hide_border=true)](https://github.com/dek-infra)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dek-infra&layout=compact&theme=radical&hide_border=true)](https://github.com/dek-infra)
-
-</div>
-# dek-infra
+<p align="center">
+  <a href="https://github.com/dek-infra">
+    <img src="https://github-readme-stats.vercel.app/api?username=dek-infra&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;v=1" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/dek-infra">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dek-infra&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;v=1" alt="Top Languages" />
+  </a>
+</p>
