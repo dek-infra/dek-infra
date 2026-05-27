@@ -74,3 +74,9 @@ I am passionate about automating infrastructure, streamlining deployments, and b
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dek-infra&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;v=1" alt="Top Languages" />
   </a>
 </p>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dek-infra&label=Profile%20Views&color=00ADB5&style=for-the-badge" alt="Profile Views" />
+</p>
