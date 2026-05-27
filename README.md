@@ -66,9 +66,10 @@ I am passionate about automating infrastructure, streamlining deployments, and b
 
 <br/>
 
-<!-- Replace YOUR-USERNAME with your actual GitHub username to activate these stats! -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dek-infra&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dek-infra&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dek-infra&show_icons=true&theme=radical&hide_border=true)](https://github.com/dek-infra)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dek-infra&layout=compact&theme=radical&hide_border=true)](https://github.com/dek-infra)
+
+</div>
 # dek-infra
