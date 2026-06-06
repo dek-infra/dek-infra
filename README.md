@@ -42,6 +42,7 @@ I am passionate about automating infrastructure, streamlining deployments, and b
   <strong>⚙️ Infrastructure as Code & OS</strong><br/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=terraform&logoColor=black" alt="OpenTofu"/>
   <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -52,16 +53,23 @@ I am passionate about automating infrastructure, streamlining deployments, and b
 
 ### 🌱 Currently Learning
 - 🐍 Deepening my knowledge in **Python** and **Bash** scripting for advanced automation.
-- 🏗️ Leveling up IaC and configuration management skills with **OpenTofu** and **Ansible**.
+- 🏗️ Leveling up IaC and configuration management skills with **Terraform**, **OpenTofu**, and **Ansible**.
+
+---
+
+### 🚀 Featured Projects
+<!-- Replace the links and descriptions below with your actual repositories to show what you can build! -->
+- ☸️ **[GitOps Kubernetes Lab](#)**: Automated K3s cluster deployment using Ansible and Terraform, with ArgoCD managing application states.
+- 📊 **[Observability Stack](#)**: Deployed Prometheus, Grafana, and Loki via Helm to monitor cluster health and aggregate system logs.
 
 ---
 
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/INKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ing.chayodom.c@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://WEBSITE.COM"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <br/>
