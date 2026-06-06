@@ -61,6 +61,7 @@ I am passionate about automating infrastructure, streamlining deployments, and b
 <!-- Replace the links and descriptions below with your actual repositories to show what you can build! -->
 - ☸️ **[GitOps Kubernetes Lab](#)**: Automated K3s cluster deployment using Ansible and Terraform, with ArgoCD managing application states.
 - 📊 **[Observability Stack](#)**: Deployed Prometheus, Grafana, and Loki via Helm to monitor cluster health and aggregate system logs.
+- 🐳 **[Production-Ready Docker Stack](#)**: Architected a secure, multi-container web application environment utilizing Docker Compose, isolated custom networks, and an Nginx reverse proxy.
 
 ---
 
