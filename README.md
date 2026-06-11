@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=DevOps+%26+Infrastructure+As+Code;Automating+Infrastructure;Building+Robust%2C+Scalable+Systems;Cloud-Native+%26+GitOps" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Docker+%26+Kubernetes+experiences;Modern+Observability;Building+Robust%2C+Scalable+Systems;Cloud-Native+%26+GitOps" alt="Typing SVG" /></a>
 </p>
 
 I am passionate about automating infrastructure, streamlining deployments, and building robust, scalable systems. My primary focus is on **cloud-native technologies**, **GitOps workflows**, and maintaining strong **observability** across environments.
