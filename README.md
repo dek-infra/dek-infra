@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Docker+%26+Kubernetes+experiences;Modern+Observability;Building+Robust%2C+Scalable+Systems;Cloud-Native+%26+GitOps" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Docker+%26+Kubernetes+Expertise;Building+Robust%2C+Scalable+Systems;Cloud-Native+%26+GitOps;Modern+Observability" alt="Typing SVG" /></a>
 </p>
 
 I am passionate about automating infrastructure, streamlining deployments, and building robust, scalable systems. My primary focus is on **cloud-native technologies**, **GitOps workflows**, and maintaining strong **observability** across environments.
@@ -11,6 +11,27 @@ I am passionate about automating infrastructure, streamlining deployments, and b
 ---
 
 <h2 align="center">🛠️ Tech Stack & Skills</h2>
+
+<p align="center">
+  <strong>⚙️ Infrastructure as Code</strong><br/>
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+</p>
+
+<p align="center">
+  <strong>💻 Programming & Scripting Languages</strong><br/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
+</p>
+
+<p align="center">
+  <strong>🖥️ Operating Systems</strong><br/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server"/>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="OSX"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+</p>
 
 <p align="center">
   <strong>☁️ Containers & Orchestration</strong><br/>
@@ -28,7 +49,7 @@ I am passionate about automating infrastructure, streamlining deployments, and b
 </p>
 
 <p align="center">
-  <strong>� CI/CD & GitOps</strong><br/>
+  <strong>🔄 CI/CD & GitOps</strong><br/>
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
   <img src="https://img.shields.io/badge/gitlab_ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
   <img src="https://img.shields.io/badge/ArgoCD-CB3030?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
@@ -45,28 +66,6 @@ I am passionate about automating infrastructure, streamlining deployments, and b
   <strong>🔐 Security & Secret Management</strong><br/>
   <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=hashicorp&logoColor=white" alt="Vault"/>
   <img src="https://img.shields.io/badge/External_Secrets-008A27?style=for-the-badge&logo=kubernetes&logoColor=white" alt="ESO"/>
-</p>
-
-<p align="center">
-  <strong>⚙️ Infrastructure as Code</strong><br/>
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-</p>
-
-<p align="center">
-  <strong>🖥️ Operating Systems</strong><br/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server"/>
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="MacOS"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-</p>
-
-<p align="center">
-  <strong>💻 Programming & Scripting Languages</strong><br/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
 </p>
 
 ---
