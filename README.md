@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Ing 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Ing%20%F0%9F%91%8B&fontSize=60&fontAlignY=35&animation=twinkling" alt="Header" />
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=DevOps+%26+Infrastructure+Enthusiast;Automating+Infrastructure;Building+Robust%2C+Scalable+Systems;Cloud-Native+%26+GitOps+Advocate" alt="Typing SVG" /></a>
@@ -8,7 +10,7 @@ I am passionate about automating infrastructure, streamlining deployments, and b
 
 ---
 
-### 🛠️ Tech Stack & Skills
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
 
 <p align="center">
   <strong>☁️ Containers & Orchestration</strong><br/>
@@ -51,21 +53,29 @@ I am passionate about automating infrastructure, streamlining deployments, and b
 
 ---
 
-### 🌱 Currently Learning
+<h2 align="center">🌱 Currently Learning & Growing</h2>
+
 - 🐍 Deepening my knowledge in **Python** and **Bash** scripting for advanced automation.
 - 🏗️ Leveling up IaC and configuration management skills with **Terraform**, **OpenTofu**, and **Ansible**.
 
 ---
 
-### 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
+
 <!-- Replace the links and descriptions below with your actual repositories to show what you can build! -->
-- ☸️ **[GitOps Kubernetes Lab](#)**: Automated K3s cluster deployment using Ansible and Terraform, with ArgoCD managing application states.
-- 📊 **[Observability Stack](#)**: Deployed Prometheus, Grafana, and Loki via Helm to monitor cluster health and aggregate system logs.
-- 🐳 **[Production-Ready Docker Stack](#)**: Architected a secure, multi-container web application environment utilizing Docker Compose, isolated custom networks, and an Nginx reverse proxy.
+
+> ☸️ **[GitOps Kubernetes Lab](#)**  
+> Automated K3s cluster deployment using Ansible and Terraform, with ArgoCD managing application states.
+>
+> 📊 **[Observability Stack](#)**  
+> Deployed Prometheus, Grafana, and Loki via Helm to monitor cluster health and aggregate system logs.
+>
+> 🐳 **[Production-Ready Docker Stack](#)**  
+> Architected a secure, multi-container web application environment utilizing Docker Compose, isolated custom networks, and an Nginx reverse proxy.
 
 ---
 
-### 📫 Let's Connect!
+<h2 align="center">📫 Let's Connect!</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/INKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -76,11 +86,27 @@ I am passionate about automating infrastructure, streamlining deployments, and b
 <br/>
 
 <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dek-infra&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
   <a href="https://github.com/dek-infra">
     <img src="https://github-readme-stats.vercel.app/api?username=dek-infra&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/dek-infra">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dek-infra&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/dek-infra">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dek-infra&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
