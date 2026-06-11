@@ -3,20 +3,18 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Platform+%26+DevOps+Engineer;Passionate+About+Automation;Building+Cloud-Native+Systems;GitOps+%26+Observability+Advocate;Always+Learning+%26+Growing" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Junior+DevOps+Engineer;Passionate+About+Automation;Exploring+Docker+%26+Kubernetes;Cloud-Native+%26+GitOps+Advocate;Always+Learning+%26+Growing" alt="Typing SVG" /></a>
 </p>
 
 ```console
 systemadmin@dek-infra:~$ whoami
-Ing (Platform & DevOps Engineer)
+Ing (Junior DevOps Engineer)
 
 systemadmin@dek-infra:~$ cat bio.txt
-> I am passionate about automating infrastructure, streamlining CI/CD pipelines,
+> I am passionate about automating infrastructure, streamlining deployments,
 > and building robust, scalable systems.
-> My core focus lies in GitOps workflows, cloud-native architectures,
-> and engineering high-fidelity observability stacks.
+> My primary focus is on cloud-native technologies, GitOps workflows,
+> and maintaining strong observability across environments.
 
 systemadmin@dek-infra:~$ ./check_status.sh
 Status: [OK] Always Learning & Growing 🌱
@@ -24,86 +22,99 @@ Status: [OK] Always Learning & Growing 🌱
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Capabilities</h2>
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
 
 <p align="center">
-  <strong>🖥️ Environments & OS</strong><br/>
+  <strong>🖥️ Operating Systems</strong><br/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Windows_WSL2-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="OSX"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
 
 <p align="center">
-  <strong>💻 Languages & Frameworks</strong><br/>
+  <strong>💻 Programming & Scripting Languages</strong><br/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
   <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
 </p>
 
 <p align="center">
-  <strong>☁️ Containerization & Orchestration</strong><br/>
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Harbor-60B932.svg?style=for-the-badge&logo=Harbor&logoColor=white" alt="Harbor"/>
-  <img src="https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+  <strong>🏗️ Infrastructure as Code (IaC)</strong><br/>
+  <img src="https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=terraform&logoColor=black" alt="OpenTofu"/>
+  <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
 </p>
 
 <p align="center">
-  <strong>🔄 CI/CD & GitOps</strong><br/>
-  <img src="https://img.shields.io/badge/ArgoCD-CB3030?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
+  <strong>🔄 Continuous Integration / Continuous Deployment (CI/CD)</strong><br/>
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
   <img src="https://img.shields.io/badge/gitlab_ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white" alt="Airflow"/>
+  <img src="https://img.shields.io/badge/ArgoCD-CB3030?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
 </p>
 
 <p align="center">
-  <strong>📊 Observability & Data</strong><br/>
-  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+  <strong>🗃️ Version Control (VCS)</strong><br/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  <img src="https://img.shields.io/badge/Azure_Repos-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure Repos"/>
+</p>
+
+<p align="center">
+  <strong>📊 Observability & Monitoring</strong><br/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
   <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki"/>
-  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse"/>
-  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+</p>
+
+<p align="center">
+  <strong>☁️ Container & Orchestration</strong><br/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+</p>
+
+<p align="center">
+  <strong>🧰 Tools</strong><br/>
+  <img src="https://img.shields.io/badge/Harbor-60B932.svg?style=for-the-badge&logo=Harbor&logoColor=white" alt="Harbor"/>
+  <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=hashicorp&logoColor=white" alt="Vault"/>
+  <img src="https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
 </p>
 
 ---
 
-<h2 align="center">🚀 Featured Architectures & Projects</h2>
+<h2 align="center">🌱 Currently Learning & Growing</h2>
 
-> ☸️ **[Multi-Cluster GitOps Platform](#)**  
-> Engineered a centralized application management platform using **ArgoCD** across development and production Kubernetes environments. Handled cluster context synchronization, secure secrets management, and automated deployments.
->
-> 📊 **[Automated ETL & Observability Pipeline](#)**  
-> Designed an automated data quality and monitoring pipeline using **Apache Airflow** and **Azure DevOps**. Migrated metrics storage to **ClickHouse** with replication clusters and implemented custom **Grafana / Loki / Alloy** stacks for deep cluster observability.
->
-> 🧠 **[Self-Hosted GenAI & Data Science Stack](#)**  
-> Deployed complex distributed systems on Kubernetes, including a multi-container **JupyterHub/JupyterLab** environment with private **Harbor** registries, alongside a GenAI stack utilizing **WrenAI, Qdrant,** and **Open WebUI**.
->
-> ⚙️ **[Workflow Automation & SMB Integration](#)**  
-> Built automated reporting workflows using **n8n** to parse network share files (Excel/SMB), execute JavaScript validation logic, and generate scheduled HTML email reports, eliminating manual daily checks.
+- 🐍 Deepening my knowledge in **Python** and **Bash** scripting for advanced automation.
+- 🏗️ Leveling up IaC and configuration management skills with **Terraform**, **OpenTofu**, and **Ansible**.
 
 ---
 
-<h2 align="center">🌱 Currently Exploring</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
-- 🏗️ Transitioning deeper into backend development with **Python** and **Golang**.
-- ⚛️ Expanding into full-stack capabilities with **React** and **Django**.
-- 🌳 Mastering advanced Git workflows, including strict Git Flow, rebasing, and merge-conflict automation scripts.
+<!-- Don't forget to replace the # links below with your actual GitHub repository links! -->
+
+> ☸️ **[GitOps Kubernetes Lab](#)**  
+> Automated K3s cluster deployment using Ansible and Terraform, with ArgoCD managing application states.
+>
+> 📊 **[Observability Stack](#)**  
+> Deployed Prometheus, Grafana, and Loki via Helm to monitor cluster health and aggregate system logs.
+>
+> 🐳 **[Production-Ready Docker Stack](#)**  
+> Architected a secure, multi-container web application environment utilizing Docker Compose, isolated custom networks, and an Nginx reverse proxy.
 
 ---
 
 <h2 align="center">📫 Let's Connect!</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/INKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <!-- Replace INKEDIN_USERNAME -->
   <a href="mailto:ing.chayodom.c@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <!-- <a href="https://WEBSITE.COM"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/></a> -->
+  <a href="https://WEBSITE.COM"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/></a> <!-- Replace WEBSITE.COM -->
 </p>
 
 ---
 
-<h2 align="center">📈 GitHub Analytics</h2>
+<h2 align="center">📈 GitHub Dashboard</h2>
 
 <p align="center">
   <a href="https://github.com/dek-infra">
