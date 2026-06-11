@@ -1,130 +1,275 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Ing%20%F0%9F%91%8B&fontSize=60&fontAlignY=35&animation=twinkling" alt="Header" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,100:2563EB&text=Chayodom%20(Ing)&fontColor=ffffff&fontSize=55&animation=fadeIn" alt="header"/>
+
+# 🚀 Junior DevOps Engineer
+
+### Building Reliable Infrastructure • Automating Everything • Cloud-Native Enthusiast
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Junior+DevOps+Engineer;Kubernetes+%7C+Docker+%7C+GitOps;Infrastructure+as+Code+Enthusiast;Automation+First+Mindset;Observability+and+Platform+Engineering;Always+Learning+and+Growing" alt="Typing SVG" />
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=dek-infra&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile Views" />
+</p>
+
 </div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=DevOps+Enthusiast;Passionate+About+Automation;Exploring+Docker+%26+Kubernetes;Cloud-Native+%26+GitOps+Enthusiast;Always+Learning+%26+Growing" alt="Typing SVG" /></a>
-</p>
+---
 
-I am passionate about automating infrastructure, streamlining deployments, and building robust, scalable systems. My primary focus is on **cloud-native technologies**, **GitOps workflows**, and maintaining strong **observability** across environments.
+## 👨‍💻 About Me
+
+Hello! I'm **Ing (Chayodom)**, a passionate **Junior DevOps Engineer** focused on building scalable, reliable, and automated infrastructure.
+
+I enjoy working with modern DevOps practices such as **Infrastructure as Code**, **GitOps**, **Container Orchestration**, and **Observability**. My goal is to continuously improve software delivery processes while maintaining system reliability and operational excellence.
+
+### 🎯 Interests
+
+- ☸️ Kubernetes & Container Orchestration
+- 🚀 CI/CD & GitOps Workflows
+- 🏗️ Infrastructure as Code (IaC)
+- 📊 Monitoring & Observability
+- 🔐 Secrets Management & Security
+- ☁️ Cloud-Native Technologies
+- 🤖 Automation & Platform Engineering
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
+## ⚡ Core Technologies
 
-<p align="center">
-  <strong>🖥️ Operating Systems</strong><br/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="OSX"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>💻 Programming & Scripting Languages</strong><br/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
-</p>
+### Operating Systems
 
-<p align="center">
-  <strong>🏗️ Infrastructure as Code (IaC)</strong><br/>
-  <img src="https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=terraform&logoColor=black" alt="OpenTofu"/>
-  <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-</p>
+<img src="https://skillicons.dev/icons?i=linux,windows,apple" />
 
-<p align="center">
-  <strong>🔄 Continuous Integration / Continuous Deployment (CI/CD)</strong><br/>
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
-  <img src="https://img.shields.io/badge/gitlab_ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
-  <img src="https://img.shields.io/badge/ArgoCD-CB3030?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
-</p>
+### Programming & Scripting
 
-<p align="center">
-  <strong>🗃️ Version Control (VCS)</strong><br/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  <img src="https://img.shields.io/badge/Azure_Repos-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure Repos"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,bash" />
 
-<p align="center">
-  <strong>📊 Observability & Monitoring</strong><br/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus"/>
-  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki"/>
-</p>
+### Containers & Orchestration
 
-<p align="center">
-  <strong>☁️ Container & Orchestration </strong><br/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-</p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 
-<p align="center">
-  <strong>🧰 Tools</strong><br/>
-  <img src="https://img.shields.io/badge/Harbor-60B932.svg?style=for-the-badge&logo=Harbor&logoColor=white" alt="Harbor"/>
-  <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=hashicorp&logoColor=white" alt="Vault"/>
-  <img src="https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-</p>
+### Version Control
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+
+</div>
 
 ---
 
-<h2 align="center">🌱 Currently Learning & Growing</h2>
+## 🛠️ DevOps Stack
 
-- 🐍 Deepening my knowledge in **Python** and **Bash** scripting for advanced automation.
-- 🏗️ Leveling up IaC and configuration management skills with **Terraform**, **OpenTofu**, and **Ansible**.
+<div align="center">
 
----
+| Category                  | Technologies                 |
+| ------------------------- | ---------------------------- |
+| 🏗️ Infrastructure as Code | OpenTofu, Terraform, Ansible |
+| 🚀 CI/CD                  | Azure DevOps, GitLab CI/CD   |
+| 🔄 GitOps                 | ArgoCD                       |
+| 📦 Containerization       | Docker                       |
+| ☸️ Orchestration          | Kubernetes, K3s              |
+| 📊 Monitoring             | Prometheus, Grafana          |
+| 📝 Logging                | Loki                         |
+| 🔐 Secrets Management     | HashiCorp Vault              |
+| 📦 Package Management     | Helm                         |
+| 🧪 API Testing            | Postman                      |
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-<!-- Replace the links and descriptions below with your actual repositories to show what you can build! -->
-
-> ☸️ **[GitOps Kubernetes Lab](#)**  
-> Automated K3s cluster deployment using Ansible and Terraform, with ArgoCD managing application states.
->
-> 📊 **[Observability Stack](#)**  
-> Deployed Prometheus, Grafana, and Loki via Helm to monitor cluster health and aggregate system logs.
->
-> 🐳 **[Production-Ready Docker Stack](#)**  
-> Architected a secure, multi-container web application environment utilizing Docker Compose, isolated custom networks, and an Nginx reverse proxy.
-
----
-
-<h2 align="center">📫 Let's Connect!</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/INKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:ing.chayodom.c@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://WEBSITE.COM"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/></a>
-</p>
+</div>
 
 ---
 
-<h2 align="center">📈 GitHub Dashboard</h2>
+## 🌱 Currently Learning
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dek-infra&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
-  </a>
-</p>
+```yaml
+learning:
+  programming:
+    - Python Automation
+    - Advanced Bash Scripting
 
-<p align="center">
-  <a href="https://github.com/dek-infra">
-    <img src="https://github-readme-stats.vercel.app/api?username=dek-infra&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/dek-infra">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dek-infra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
+  infrastructure:
+    - OpenTofu
+    - Terraform Modules
+    - Ansible Automation
 
-<p align="center">
-  <a href="https://github.com/dek-infra">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dek-infra&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+  kubernetes:
+    - GitOps Patterns
+    - Helm Development
+    - Production Operations
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dek-infra&label=Profile%20Views&color=70a5fd&style=for-the-badge" alt="Profile Views" />
-</p>
+  cloud:
+    - Cloud Architecture
+    - Kubernetes Networking
+    - Security Best Practices
+
+  observability:
+    - Prometheus
+    - Grafana
+    - Loki
+```
+
+---
+
+## 🚀 Featured Projects
+
+### ☸️ GitOps Kubernetes Lab
+
+GitOps-driven Kubernetes environment built using K3s, ArgoCD, and Helm.
+
+#### Key Features
+
+- Automated Kubernetes deployment
+- GitOps workflow with ArgoCD
+- Application lifecycle management
+- Declarative infrastructure
+
+**Tech Stack**
+
+`Kubernetes` • `K3s` • `ArgoCD` • `Helm` • `Ansible`
+
+🔗 Repository: **Coming Soon**
+
+---
+
+### 📊 Observability Stack
+
+Complete monitoring and logging platform for Kubernetes environments.
+
+#### Key Features
+
+- Metrics collection with Prometheus
+- Visualization with Grafana
+- Centralized logging with Loki
+- Custom dashboards and alerts
+
+**Tech Stack**
+
+`Prometheus` • `Grafana` • `Loki` • `Helm`
+
+🔗 Repository: **Coming Soon**
+
+---
+
+### 🐳 Production Docker Environment
+
+Secure and scalable multi-container application environment.
+
+#### Key Features
+
+- Reverse proxy architecture
+- Service isolation
+- Network segmentation
+- Containerized deployment workflow
+
+**Tech Stack**
+
+`Docker` • `Docker Compose` • `Nginx`
+
+🔗 Repository: **Coming Soon**
+
+---
+
+### 🏗️ Infrastructure as Code Lab
+
+Infrastructure provisioning and configuration management automation.
+
+#### Key Features
+
+- Reusable modules
+- Environment separation
+- Automated provisioning
+- Configuration management
+
+**Tech Stack**
+
+`OpenTofu` • `Terraform` • `Ansible`
+
+🔗 Repository: **Coming Soon**
+
+---
+
+## 🎯 2026 Goals
+
+- [ ] Build a production-ready Kubernetes platform
+- [ ] Complete a full GitOps implementation
+- [ ] Develop reusable Infrastructure as Code modules
+- [ ] Create a complete DevOps portfolio project
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dek-infra&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dek-infra&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dek-infra&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dek-infra&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+## 📚 Current Focus
+
+```text
+✔ Kubernetes Fundamentals
+✔ Docker & Containerization
+✔ GitOps Workflows
+✔ CI/CD Automation
+✔ Monitoring & Observability
+
+🔄 Currently Improving:
+  - Python Automation
+  - Master IaC (Terraform , Ansible)
+  - Advanced Kubernetes Operations
+  - Infrastructure Design
+  - Platform Engineering
+```
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:ing.chayodom.c@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/dek-infra">
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Automate repetitive work, improve reliability, and keep learning."
+
+⭐ Feel free to explore my repositories and connect with me!
+
+</div>
