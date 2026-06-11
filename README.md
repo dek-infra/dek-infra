@@ -54,7 +54,7 @@ I am passionate about automating infrastructure, streamlining deployments, and b
 </p>
 
 <p align="center">
-  <strong>☁️ Container & Orchestration Tools</strong><br/>
+  <strong>☁️ Container & Orchestration </strong><br/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </p>
