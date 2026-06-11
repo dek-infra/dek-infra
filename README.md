@@ -106,6 +106,12 @@ Status: [OK] Always Learning & Growing 🌱
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
+  <a href="https://github.com/dek-infra">
+    <img src="https://github-readme-terminal.vercel.app/api?user=dek-infra&theme=tokyonight" alt="GitHub Terminal Stats" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=dek-infra&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
   </a>
