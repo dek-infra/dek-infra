@@ -14,8 +14,7 @@ I am passionate about automating infrastructure, streamlining deployments, and b
 
 <p align="center">
   <strong>🖥️ Operating Systems</strong><br/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server"/>
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="OSX"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
@@ -28,31 +27,23 @@ I am passionate about automating infrastructure, streamlining deployments, and b
 </p>
 
 <p align="center">
-  <strong>⚙️ Infrastructure as Code</strong><br/>
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <strong>🏗️ Infrastructure as Code (IaC)</strong><br/>
+  <img src="https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=terraform&logoColor=black" alt="OpenTofu"/>
   <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
 </p>
 
 <p align="center">
-  <strong>☁️ Containers & Orchestration</strong><br/>
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Harbor-60B932.svg?style=for-the-badge&logo=Harbor&logoColor=white" alt="Harbor"/>
-</p>
-
-<p align="center">
-  <strong>🗃️ Version Control</strong><br/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  <img src="https://img.shields.io/badge/Azure_Repos-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure Repos"/>
-</p>
-
-<p align="center">
-  <strong>🔄 CI/CD & GitOps</strong><br/>
+  <strong>🔄 Continuous Integration / Continuous Deployment (CI/CD)</strong><br/>
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
   <img src="https://img.shields.io/badge/gitlab_ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
   <img src="https://img.shields.io/badge/ArgoCD-CB3030?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
+</p>
+
+<p align="center">
+  <strong>🗃️ Version Control (VCS)</strong><br/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  <img src="https://img.shields.io/badge/Azure_Repos-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure Repos"/>
 </p>
 
 <p align="center">
@@ -63,7 +54,11 @@ I am passionate about automating infrastructure, streamlining deployments, and b
 </p>
 
 <p align="center">
-  <strong>🔐 Security & Secret Management</strong><br/>
+  <strong>☁️ Container & Orchestration Tools</strong><br/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+  <img src="https://img.shields.io/badge/Harbor-60B932.svg?style=for-the-badge&logo=Harbor&logoColor=white" alt="Harbor"/>
   <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=hashicorp&logoColor=white" alt="Vault"/>
   <img src="https://img.shields.io/badge/External_Secrets-008A27?style=for-the-badge&logo=kubernetes&logoColor=white" alt="ESO"/>
 </p>
