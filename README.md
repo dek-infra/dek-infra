@@ -57,10 +57,15 @@ I am passionate about automating infrastructure, streamlining deployments, and b
   <strong>☁️ Container & Orchestration Tools</strong><br/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+</p>
+
+<p align="center">
+  <strong>🧰 Tools</strong><br/>
   <img src="https://img.shields.io/badge/Harbor-60B932.svg?style=for-the-badge&logo=Harbor&logoColor=white" alt="Harbor"/>
   <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=hashicorp&logoColor=white" alt="Vault"/>
-  <img src="https://img.shields.io/badge/External_Secrets-008A27?style=for-the-badge&logo=kubernetes&logoColor=white" alt="ESO"/>
+  <img src="https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
 </p>
 
 ---
