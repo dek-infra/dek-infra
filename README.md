@@ -8,7 +8,19 @@
   </a>
 </p>
 
-I am a Platform and DevOps Engineer passionate about automating infrastructure, streamlining CI/CD pipelines, and building robust, scalable systems. My core focus lies in **GitOps workflows**, **cloud-native architectures**, and engineering high-fidelity **observability** stacks.
+```console
+systemadmin@dek-infra:~$ whoami
+Ing (Platform & DevOps Engineer)
+
+systemadmin@dek-infra:~$ cat bio.txt
+> I am passionate about automating infrastructure, streamlining CI/CD pipelines,
+> and building robust, scalable systems.
+> My core focus lies in GitOps workflows, cloud-native architectures,
+> and engineering high-fidelity observability stacks.
+
+systemadmin@dek-infra:~$ ./check_status.sh
+Status: [OK] Always Learning & Growing 🌱
+```
 
 ---
 
