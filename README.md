@@ -10,7 +10,7 @@ I am passionate about automating infrastructure, streamlining deployments, and b
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="35" height="35" /> Tech Stack & Skills</h2>
 
 <p align="center">
   <strong>☁️ Containers & Orchestration</strong><br/>
@@ -53,29 +53,41 @@ I am passionate about automating infrastructure, streamlining deployments, and b
 
 ---
 
-<h2 align="center">🌱 Currently Learning & Growing</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20Nature/Seedling.png" alt="Seedling" width="35" height="35" /> Currently Learning & Growing</h2>
 
 - 🐍 Deepening my knowledge in **Python** and **Bash** scripting for advanced automation.
 - 🏗️ Leveling up IaC and configuration management skills with **Terraform**, **OpenTofu**, and **Ansible**.
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Rocket.png" alt="Rocket" width="35" height="35" /> Featured Projects</h2>
 
 <!-- Replace the links and descriptions below with your actual repositories to show what you can build! -->
 
-> ☸️ **[GitOps Kubernetes Lab](#)**  
+> ☸️ **[GitOps Kubernetes Lab](https://github.com/dek-infra)**  
 > Automated K3s cluster deployment using Ansible and Terraform, with ArgoCD managing application states.
 >
-> 📊 **[Observability Stack](#)**  
+> 📊 **[Observability Stack](https://github.com/dek-infra)**  
 > Deployed Prometheus, Grafana, and Loki via Helm to monitor cluster health and aggregate system logs.
 >
-> 🐳 **[Production-Ready Docker Stack](#)**  
+> 🐳 **[Production-Ready Docker Stack](https://github.com/dek-infra)**  
 > Architected a secure, multi-container web application environment utilizing Docker Compose, isolated custom networks, and an Nginx reverse proxy.
 
 ---
 
-<h2 align="center">📫 Let's Connect!</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20Nature/Snake.png" alt="Snake" width="35" height="35" /> Contribution Graph</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dek-infra/dek-infra/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dek-infra/dek-infra/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dek-infra/dek-infra/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" alt="Postbox" width="35" height="35" /> Let's Connect!</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/INKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -115,3 +127,7 @@ I am passionate about automating infrastructure, streamlining deployments, and b
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dek-infra&label=Profile%20Views&color=00ADB5&style=for-the-badge" alt="Profile Views" />
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" alt="Footer" />
+</div>
