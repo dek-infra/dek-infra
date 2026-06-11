@@ -112,23 +112,19 @@ I am passionate about automating infrastructure, streamlining deployments, and b
 
 <p align="center">
   <a href="https://github.com/dek-infra">
-    <img src="https://github-readme-stats.vercel.app/api?username=dek-infra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dek-infra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/dek-infra">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dek-infra&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dek-infra&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/dek-infra">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dek-infra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dek-infra&theme=tokyonight&hide_border=true&background=transparent" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dek-infra&label=Profile%20Views&color=00ADB5&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dek-infra&label=Profile%20Views&color=00ADB5&style=flat" alt="Profile Views" />
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" alt="Footer" />
-</div>
