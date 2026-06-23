@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Ing%20%F0%9F%91%8B&fontSize=60&fontAlignY=35&animation=twinkling" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=About%20Me&fontSize=60&fontAlignY=35&animation=twinkling" alt="Header" />
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=DevOps+Enthusiast;Passionate+About+Automation;Exploring+Docker+%26+Kubernetes;Cloud-Native+%26+GitOps+Enthusiast;Always+Learning+%26+Growing" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=DevOps+%26+Platform+Engineer;Passionate+About+Infrastructure;Exploring+Terraform+%26+Ansible;Linux+%26+Open-Source+Enthusiast;Always+Learning+%26+Growing" alt="Typing SVG" /></a>
 </p>
 
-I am passionate about automating infrastructure, streamlining deployments, and building robust, scalable systems. My primary focus is on **cloud-native technologies**, **GitOps workflows**, and maintaining strong **observability** across environments.
+Hi, I'm **Ing (Chayodom)**! I am a Platform/DevOps Engineer passionate about automating infrastructure, building robust CI/CD pipelines, and designing scalable cloud-native systems. I strongly advocate for open-source tools, self-hosted solutions, and maintaining strong observability across environments.
 
 ---
 
@@ -15,80 +15,64 @@ I am passionate about automating infrastructure, streamlining deployments, and b
 <p align="center">
   <strong>🖥️ Operating Systems</strong><br/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="OSX"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Windows_&_WSL2-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
 
 <p align="center">
-  <strong>💻 Programming & Scripting Languages</strong><br/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
-</p>
-
-<p align="center">
-  <strong>🏗️ Infrastructure as Code (IaC)</strong><br/>
+  <strong>🏗️ Infrastructure as Code & Configuration</strong><br/>
   <img src="https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=terraform&logoColor=black" alt="OpenTofu"/>
   <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
 </p>
 
 <p align="center">
-  <strong>🔄 Continuous Integration / Continuous Deployment (CI/CD)</strong><br/>
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
-  <img src="https://img.shields.io/badge/gitlab_ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
+  <strong>💻 Scripting & Programming</strong><br/>
+  <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+</p>
+
+<p align="center">
+  <strong>☁️ Container, Orchestration & GitOps</strong><br/>
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/ArgoCD-CB3030?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
+  <img src="https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
 </p>
 
 <p align="center">
-  <strong>🗃️ Version Control (VCS)</strong><br/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  <img src="https://img.shields.io/badge/Azure_Repos-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure Repos"/>
-</p>
-
-<p align="center">
-  <strong>📊 Observability & Monitoring</strong><br/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus"/>
+  <strong>📊 Observability</strong><br/>
   <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki"/>
 </p>
 
 <p align="center">
-  <strong>☁️ Container & Orchestration </strong><br/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-</p>
-
-<p align="center">
-  <strong>🧰 Tools</strong><br/>
-  <img src="https://img.shields.io/badge/Harbor-60B932.svg?style=for-the-badge&logo=Harbor&logoColor=white" alt="Harbor"/>
-  <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=hashicorp&logoColor=white" alt="Vault"/>
-  <img src="https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  <strong>🔄 CI/CD & Version Control</strong><br/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
+  <img src="https://img.shields.io/badge/gitlab_ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ---
 
 <h2 align="center">🌱 Currently Learning & Growing</h2>
 
-- 🐍 Deepening my knowledge in **Python** and **Bash** scripting for advanced automation.
-- 🏗️ Leveling up IaC and configuration management skills with **Terraform**, **OpenTofu**, and **Ansible**.
+- 🐧 Deepening my administrative knowledge and hands-on experience with **Linux OS**.
+- 🏗️ Leveling up Infrastructure as Code (IaC) and configuration management skills using **Terraform (OpenTofu)** and **Ansible**.
+- 🐚 Exploring advanced automation techniques using **Bash scripting**.
+- 🐍 Actively studying **Python** to enhance my backend and system automation capabilities.
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Featured Experiences & Projects</h2>
 
-<!-- Replace the links and descriptions below with your actual repositories to show what you can build! -->
-
-> ☸️ **[GitOps Kubernetes Lab](#)**  
-> Automated K3s cluster deployment using Ansible and Terraform, with ArgoCD managing application states.
+> ☸️ **GitOps Kubernetes Lab**  
+> Automated K3s cluster deployment using Ansible and Terraform, with ArgoCD managing application states across environments.
 >
-> 📊 **[Observability Stack](#)**  
-> Deployed Prometheus, Grafana, and Loki via Helm to monitor cluster health and aggregate system logs.
+> 📊 **Advanced Observability Stack**  
+> Architected robust monitoring solutions using Prometheus, Grafana, Loki, and Alloy to track cluster health and aggregate system logs.
 >
-> 🐳 **[Production-Ready Docker Stack](#)**  
-> Architected a secure, multi-container web application environment utilizing Docker Compose, isolated custom networks, and an Nginx reverse proxy.
+> ⚙️ **Data Pipelines & Automation**  
+> Built and optimized automated pipelines with Apache Airflow and n8n to streamline reporting and infrastructure workflows.
 
 ---
 
@@ -97,7 +81,6 @@ I am passionate about automating infrastructure, streamlining deployments, and b
 <p align="center">
   <a href="https://linkedin.com/in/INKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ing.chayodom.c@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://WEBSITE.COM"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
