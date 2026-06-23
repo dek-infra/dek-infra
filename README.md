@@ -71,8 +71,8 @@ Hi, I'm **Ing (Chayodom)**! I am a Platform/DevOps Engineer passionate about aut
 > 📊 **Advanced Observability Stack**  
 > Architected robust monitoring solutions using Prometheus, Grafana, Loki, and Alloy to track cluster health and aggregate system logs.
 >
-> ⚙️ **Data Pipelines & Automation**  
-> Built and optimized automated pipelines with Apache Airflow and n8n to streamline reporting and infrastructure workflows.
+> ⚙️ **Automation**  
+> Built n8n to streamline reporting and infrastructure workflows.
 
 ---
 
